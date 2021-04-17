@@ -8,4 +8,4 @@ Fiquem a vontade de fazer críticas construtivas, elas irão ajudar a mim e a ou
 
 Dentro de cada projeto você irá encontrar um arquivo README com a descrição do que foi feito.
 
-Criei um canal no YouTube onde haverá uma [playlist](https://www.youtube.com/playlist?list=PLH9c2uewTlym22iCqWSfPZYw6r0wm6al5) com o desenvolvimento desses projetos.
+Você poderá acessar essa [playlist](https://www.youtube.com/playlist?list=PLH9c2uewTlym22iCqWSfPZYw6r0wm6al5) no YouTube com o desenvolvimento desses projetos.

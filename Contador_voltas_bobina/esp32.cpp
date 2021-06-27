@@ -6,7 +6,7 @@
 String readString;
 
 void setup() {
-  Serial.begin(115200);           //Initializing the Serial Port to Baud rate 9600
+  Serial.begin(115200);           //Initializing the Serial Port to Baud rate 115200
   pinMode(LED_PIN, OUTPUT);      //Defining the Led pin as output 
 }
 
